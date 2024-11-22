@@ -1,2 +1,6 @@
 /.venv/
 /data/
+.env
+/input/
+*.pyc
+/__pycache__
