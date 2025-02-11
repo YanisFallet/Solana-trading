@@ -1,7 +1,7 @@
 import requests
 
 def get_transaction_details(signature, address_):
-    endpoint = "https://mainnet.helius-rpc.com/?api-key=545f44e5-5e8f-44ba-ab82-f5e247c6e0d6"
+    endpoint = "https://mainnet.helius-rpc.com/?api-key="
     
     subscription_message = {
         "jsonrpc": "2.0",
